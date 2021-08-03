@@ -15,3 +15,5 @@ Score 2 is of SA + 1-NN
 — EROT.py file is the comparison of SA algo and EROT  
 Score 1 is of SA  
 Score 2 is of EROT   
+
+- dslr.mat & webcam.mat are the dataset to test the algorithms  
