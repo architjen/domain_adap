@@ -7,6 +7,7 @@ EROT = Entropic regularised transport implementation
 
 — There are 2 ‘.py’ files with Subspace alignment and Entropic regularized optimal transport implementation  
 
+- dslr.mat & webcam.mat are the dataset to test the algorithms  
 
 — SA.py file is the comparison of [SA + 1-NN] algorithm with simple 1-NN  
 Score 1 is of 1-NN  
@@ -16,4 +17,4 @@ Score 2 is of SA + 1-NN
 Score 1 is of SA  
 Score 2 is of EROT   
 
-- dslr.mat & webcam.mat are the dataset to test the algorithms  
+
